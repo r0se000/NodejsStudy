@@ -1,0 +1,14 @@
+원하는경로에서 
+
+npm install express-generator -g 
+
+express [프로젝트 디렉토리 명] ====>express 기반의 새로운 프로젝트 생성
+
+cd [프로젝트 디렉토리 명]&& npm install ==>환경생성
+
+장고 urls.py역할 ==> route
+
+
+
+jade 에서 클래스 =>.
+	id => #
